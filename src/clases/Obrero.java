@@ -9,5 +9,5 @@ package clases;
  * @author octavio
  */
 public class Obrero extends Persona{
-    
+    private String nombre;
 }
